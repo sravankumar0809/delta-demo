@@ -1,2 +1,2 @@
 # delta-demo
-This repository is used as a practice class of Git &amp; Github
+This repository is used as a practice class of Git &amp; Github.
